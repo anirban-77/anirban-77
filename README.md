@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm Anirban Chowdhury, currently pursuing my Master's in Computer Applications (MCA) at Siliguri Institute of Technology. I have a strong interest in technology and programming, with skills in C++, JavaScript, Python, HTML, CSS, SQL, and cybersecurity.<br><br>I'm passionate about solving problems and building efficient solutions through code. I'm always looking for opportunities to learn and grow in the field of software development and cybersecurity.<br><br>Feel free to explore my repositories or reach out to collaborate on exciting projects!<br>
+<br><br>Hi, I'm Anirban Chowdhury, currently pursuing my Master's in Computer Applications (MCA) at Siliguri Institute of Technology. I have a strong interest in technology and programming, with skills in C++, JavaScript, Python, HTML, CSS, SQL, and cybersecurity.<br><br>I'm passionate about solving problems and building efficient solutions through code. I'm always looking for opportunities to learn and grow in the field of software development and cybersecurity.<br><br>!<br>
 
 
 ## 🌐 Socials:
